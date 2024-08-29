@@ -182,5 +182,7 @@ display: block;
     .lista__link a {
         margin: 0.5em 0; 
     }
-    
+    .imagem__telas{
+        display: none;
+    }
 }
